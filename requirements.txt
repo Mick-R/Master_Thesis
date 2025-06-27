@@ -1,1 +1,35 @@
+# Core data science and ML packages
+pandas==2.2.3
+numpy==1.26.3
+matplotlib==3.10.0
+seaborn==0.12.2
+plotly==5.24.1
+
+# LLM and API packages
+openai==1.90.0
+anthropic==0.54.0
+langchain==0.3.23
+langchain-core==0.3.66
+langchain-openai==0.3.24
+langchain-anthropic==0.3.15
+
+# Data handling and web scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Jupyter environment
+jupyter==1.1.1
+ipython==8.12.3
+notebook==7.3.2
+
+# Utility packages
+tqdm==4.67.1
+python-dotenv==1.1.0
+openpyxl==3.1.5
+
+# Statistical analysis
+statsmodels==0.14.4
+pingouin==0.5.5
+
+
 
