@@ -1,0 +1,3260 @@
+{
+  "SurveyEntry": {
+    "SurveyID": "SV_0pshNLPd1lYxLN4",
+    "SurveyName": "Master Thesis | ICR Survey | English #1",
+    "SurveyDescription": null,
+    "SurveyOwnerID": "UR_cUWBE01FNydh2Hc",
+    "SurveyBrandID": "uva",
+    "DivisionID": "DV_2g9pK71JDa4rVYx",
+    "SurveyLanguage": "EN",
+    "SurveyActiveResponseSet": "RS_bfKLCjMWKkoysYe",
+    "SurveyStatus": "Inactive",
+    "SurveyStartDate": "0000-00-00 00:00:00",
+    "SurveyExpirationDate": "0000-00-00 00:00:00",
+    "SurveyCreationDate": "2025-04-10 08:06:17",
+    "CreatorID": "UR_cUWBE01FNydh2Hc",
+    "LastModified": "2025-06-05 04:55:19",
+    "LastAccessed": "0000-00-00 00:00:00",
+    "LastActivated": "0000-00-00 00:00:00",
+    "Deleted": null
+  },
+  "SurveyElements": [
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "BL",
+      "PrimaryAttribute": "Survey Blocks",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "0": {
+          "Type": "Default",
+          "Description": "Vacancy 1",
+          "ID": "BL_cBI8pJYhVFv1OBM",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID11"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID7"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID9"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID12"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID13"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID15"
+            }
+          ],
+          "Options": {
+            "BlockLocking": "false",
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Collapsed"
+          }
+        },
+        "1": {
+          "Type": "Trash",
+          "Description": "Trash / Unused Questions",
+          "ID": "BL_03vur41QvUPPN5A",
+          "BlockElements": []
+        },
+        "4": {
+          "Type": "Standard",
+          "SubType": "",
+          "Description": "Introduction",
+          "ID": "BL_5hCtQiLRhqweJbo",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID8"
+            }
+          ],
+          "Options": {
+            "BlockLocking": "false",
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Expanded"
+          }
+        },
+        "5": {
+          "Type": "Standard",
+          "Description": "Vacancy 2",
+          "ID": "BL_b337Rc7wtd6kXSC",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID17"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID18"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID19"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID20"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID21"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID22"
+            }
+          ],
+          "Options": {
+            "BlockLocking": false,
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Collapsed"
+          }
+        },
+        "6": {
+          "Type": "Standard",
+          "Description": "Vacancy 3",
+          "ID": "BL_9TetbISMsIEUuQS",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID23"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID24"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID25"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID26"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID27"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID28"
+            }
+          ],
+          "Options": {
+            "BlockLocking": false,
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Collapsed"
+          }
+        },
+        "7": {
+          "Type": "Standard",
+          "Description": "Vacancy 4",
+          "ID": "BL_bDU5yNbYeEphMSG",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID29"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID30"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID31"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID32"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID33"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID34"
+            }
+          ],
+          "Options": {
+            "BlockLocking": false,
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Collapsed"
+          }
+        },
+        "8": {
+          "Type": "Standard",
+          "Description": "Vacancy 5",
+          "ID": "BL_cu9GW0pr4Zi1Eou",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID35"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID36"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID37"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID38"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID39"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID40"
+            }
+          ],
+          "Options": {
+            "BlockLocking": false,
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Collapsed"
+          }
+        },
+        "9": {
+          "Type": "Standard",
+          "Description": "Vacancy 6",
+          "ID": "BL_1Zj4LI69P5ZQ1zU",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID41"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID42"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID43"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID44"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID45"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID46"
+            }
+          ],
+          "Options": {
+            "BlockLocking": false,
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Collapsed"
+          }
+        },
+        "10": {
+          "Type": "Standard",
+          "Description": "Vacancy 7",
+          "ID": "BL_eaFuRM6wE9KDdbw",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID47"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID48"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID49"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID50"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID51"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID52"
+            }
+          ],
+          "Options": {
+            "BlockLocking": false,
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Collapsed"
+          }
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "FL",
+      "PrimaryAttribute": "Survey Flow",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Root",
+        "FlowID": "FL_1",
+        "Flow": [
+          {
+            "Type": "EmbeddedData",
+            "FlowID": "FL_ED_1",
+            "EmbeddedData": [
+              {
+                "Description": "vacancy_1_unique_id",
+                "Type": "Recipient",
+                "Field": "vacancy_1_unique_id",
+                "Value": "c30128ff"
+              }
+            ]
+          },
+          {
+            "Type": "EmbeddedData",
+            "FlowID": "FL_ED_2",
+            "EmbeddedData": [
+              {
+                "Description": "vacancy_2_unique_id",
+                "Type": "Recipient",
+                "Field": "vacancy_2_unique_id",
+                "Value": "3f10bb8c"
+              }
+            ]
+          },
+          {
+            "Type": "EmbeddedData",
+            "FlowID": "FL_ED_3",
+            "EmbeddedData": [
+              {
+                "Description": "vacancy_3_unique_id",
+                "Type": "Recipient",
+                "Field": "vacancy_3_unique_id",
+                "Value": "4b1a6da6"
+              }
+            ]
+          },
+          {
+            "Type": "EmbeddedData",
+            "FlowID": "FL_ED_4",
+            "EmbeddedData": [
+              {
+                "Description": "vacancy_4_unique_id",
+                "Type": "Recipient",
+                "Field": "vacancy_4_unique_id",
+                "Value": "78083353"
+              }
+            ]
+          },
+          {
+            "Type": "EmbeddedData",
+            "FlowID": "FL_ED_5",
+            "EmbeddedData": [
+              {
+                "Description": "vacancy_5_unique_id",
+                "Type": "Recipient",
+                "Field": "vacancy_5_unique_id",
+                "Value": "d8093414"
+              }
+            ]
+          },
+          {
+            "Type": "EmbeddedData",
+            "FlowID": "FL_ED_6",
+            "EmbeddedData": [
+              {
+                "Description": "vacancy_6_unique_id",
+                "Type": "Recipient",
+                "Field": "vacancy_6_unique_id",
+                "Value": "4b0a6da6"
+              }
+            ]
+          },
+          {
+            "Type": "EmbeddedData",
+            "FlowID": "FL_ED_7",
+            "EmbeddedData": [
+              {
+                "Description": "vacancy_7_unique_id",
+                "Type": "Recipient",
+                "Field": "vacancy_7_unique_id",
+                "Value": "78183353"
+              }
+            ]
+          },
+          {
+            "ID": "BL_5hCtQiLRhqweJbo",
+            "Type": "Standard",
+            "FlowID": "FL_15"
+          },
+          {
+            "Type": "Block",
+            "ID": "BL_cBI8pJYhVFv1OBM",
+            "FlowID": "FL_5",
+            "Autofill": []
+          },
+          {
+            "ID": "BL_b337Rc7wtd6kXSC",
+            "Type": "Standard",
+            "FlowID": "FL_17"
+          },
+          {
+            "ID": "BL_9TetbISMsIEUuQS",
+            "Type": "Standard",
+            "FlowID": "FL_18"
+          },
+          {
+            "ID": "BL_bDU5yNbYeEphMSG",
+            "Type": "Standard",
+            "FlowID": "FL_19"
+          },
+          {
+            "ID": "BL_cu9GW0pr4Zi1Eou",
+            "Type": "Standard",
+            "FlowID": "FL_20"
+          },
+          {
+            "ID": "BL_1Zj4LI69P5ZQ1zU",
+            "Type": "Standard",
+            "FlowID": "FL_21"
+          },
+          {
+            "ID": "BL_eaFuRM6wE9KDdbw",
+            "Type": "Standard",
+            "FlowID": "FL_22"
+          },
+          {
+            "Type": "BlockRandomizer",
+            "FlowID": "FL_6",
+            "SubSet": 0
+          },
+          {
+            "Type": "EndSurvey",
+            "FlowID": "FL_7"
+          }
+        ],
+        "Properties": {
+          "Count": 22
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "PL",
+      "PrimaryAttribute": "Preview Link",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "PreviewType": "Brand",
+        "PreviewID": "8d7f07c8-c1ab-4043-8ef8-4eca27b55cfc"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "PROJ",
+      "PrimaryAttribute": "CORE",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": "1.1.0",
+      "Payload": {
+        "ProjectCategory": "CORE",
+        "SchemaVersion": "1.1.0"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "QC",
+      "PrimaryAttribute": "Survey Question Count",
+      "SecondaryAttribute": "52",
+      "TertiaryAttribute": null,
+      "Payload": null
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "QG",
+      "PrimaryAttribute": "QG_EmQkGLuvvUQQvG3",
+      "SecondaryAttribute": "Default Quota Group",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "ID": "QG_EmQkGLuvvUQQvG3",
+        "Name": "Default Quota Group",
+        "Selected": true,
+        "MultipleMatch": "PlaceInAll",
+        "Public": false,
+        "Quotas": []
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "QGO",
+      "PrimaryAttribute": "QGO_QuotaGroupOrder",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": [
+        "QG_EmQkGLuvvUQQvG3"
+      ]
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "RS",
+      "PrimaryAttribute": "RS_bfKLCjMWKkoysYe",
+      "SecondaryAttribute": "Default Response Set",
+      "TertiaryAttribute": null,
+      "Payload": null
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SCO",
+      "PrimaryAttribute": "Scoring",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "ScoringCategories": [
+          {
+            "ID": "SC_9NPPcFC2XKn1aku",
+            "Name": "Score",
+            "Description": ""
+          }
+        ],
+        "ScoringCategoryGroups": [],
+        "DefaultScoringCategory": "SC_9NPPcFC2XKn1aku",
+        "ScoringSummaryCategory": null,
+        "ScoringSummaryAfterQuestions": 0,
+        "ScoringSummaryAfterSurvey": 0,
+        "AutoScoringCategory": null
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SO",
+      "PrimaryAttribute": "Survey Options",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "BackButton": "false",
+        "SaveAndContinue": "true",
+        "SurveyProtection": "PublicSurvey",
+        "BallotBoxStuffingPrevention": "false",
+        "NoIndex": "Yes",
+        "SecureResponseFiles": "true",
+        "SurveyExpiration": "None",
+        "SurveyTermination": "DefaultMessage",
+        "Header": "",
+        "Footer": "",
+        "ProgressBarDisplay": "None",
+        "PartialData": "+1 week",
+        "ValidationMessage": "",
+        "PreviousButton": "",
+        "NextButton": " → ",
+        "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management",
+        "SkinLibrary": "uva",
+        "SkinType": "templated",
+        "Skin": {
+          "brandingId": "3067498872",
+          "templateId": "*base",
+          "overrides": {
+            "logo": {
+              "url": "https://uva.fra1.qualtrics.com/CP/Graphic.php?IM=IM_ebyQPZ8FGhifOlw",
+              "height": "300px"
+            }
+          }
+        },
+        "NewScoring": 1,
+        "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+        "SurveyName": "Master Thesis | ICR Survey | English #1",
+        "ProtectSelectionIds": true
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID11",
+      "SecondaryAttribute": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled \"Logistics employee – containers unloading\" Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DefaultChoices": false,
+        "DataExportTag": "Q2.1",
+        "QuestionID": "QID11",
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled @“Key Account Manager Spanish.”@ Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID12",
+      "SecondaryAttribute": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DefaultChoices": false,
+        "DataExportTag": "Q2.4",
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+        "Choices": {
+          "1": {
+            "Display": "3. Motivating Text"
+          },
+          "2": {
+            "Display": "4. Creativity Level"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionID": "QID12",
+        "QuestionText_Unsafe": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation."
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID13",
+      "SecondaryAttribute": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        keep job description general - include environmental factors if neccecary (e.g. hot/cold) - Job Requirements and Employment Conditions with bullets points  - begin with summary, only these aspects:\n(- job function - workplace location - weekly working hours - hourly wage)\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Helpful and encouraging engagement\n    </div>\n</div><br><br><br>",
+        "DefaultChoices": false,
+        "DataExportTag": "Q2.5",
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+        "Choices": {
+          "1": {
+            "Display": "5. Content Rules"
+          },
+          "2": {
+            "Display": "6. Recruitment Company Tone of Voice"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionID": "QID13",
+        "QuestionText_Unsafe": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        keep job description general - include environmental factors if neccecary (e.g. hot/cold) - Job Requirements and Employment Conditions with bullets points  - begin with summary, only these aspects:\n(- job function - workplace location - weekly working hours - hourly wage)\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Helpful and encouraging engagement\n    </div>\n</div><br><br><br>"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID15",
+      "SecondaryAttribute": "Completeness 7. Applicant Profile: The job listing reflects the competenciesfor the target candid...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competenciesfor the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Reliability - Physical stamina - Safety awareness\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DefaultChoices": false,
+        "DataExportTag": "Q2.6",
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Completeness 7. Applicant Profile: The job listing reflects the competenciesfor the target candid...",
+        "Choices": {
+          "1": {
+            "Display": "7. Applicant Profile"
+          },
+          "2": {
+            "Display": "8. Company Information"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionID": "QID15",
+        "QuestionText_Unsafe": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies and challenges for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Reliability - Physical stamina - Safety awareness\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID17",
+      "SecondaryAttribute": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled \"Customer Service Officer Import | Maritime\" Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled @“Key Account Manager Spanish.”@ Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DataExportTag": "Q3.1",
+        "QuestionID": "QID17"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID18",
+      "SecondaryAttribute": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<!-- UNIQUE_ID: 3f10bb8c -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"3f10bb8c\"></div>\n<h1>Customer Service Officer Import | Maritime</h1>\n\n<h3>Job Description</h3>\n<p>Embark on a journey with our client, a leader in global supply chain solutions, as a Customer Service Officer Import in the maritime sector. This role is pivotal in ensuring seamless import operations, requiring a blend of organizational prowess and a customer-centric approach. As a candidate with a strong command of both Dutch and English, you will navigate the complexities of international customer service with ease. Your previous experience in similar settings will be invaluable as you manage documentation requirements and apply your knowledge of shipping <strong>INCOTERMS</strong>. You will thrive in high-pressure environments, using your analytical skills and solution-oriented mindset to tackle challenges head-on. Your proactive attitude and excellent communication skills will be key in maintaining strong relationships with clients and partners.</p>\n\n<h3>Requirements</h3>\n<ul>\n  <li>Strong command of both Dutch and English</li>\n  <li>Highly organized, self-driven, and capable of planning and managing workflows</li>\n  <li>Prior experience in an international customer service setting</li>\n  <li>Solid understanding of documentation requirements</li>\n  <li>Proficient in Microsoft Office</li>\n  <li>Excellent verbal and written communication skills</li>\n  <li>Familiarity with shipping <strong>INCOTERMS</strong></li>\n  <li>Comfortable working in high-pressure environments</li>\n  <li>Analytical and solution-oriented approach to problem-solving</li>\n  <li>Customer-centric mindset with a proactive attitude</li>\n</ul>\n\n<h3>Working Conditions</h3>\n<ul>\n  <li>Fully covered pension contributions</li>\n  <li>Annual performance bonus based on personal and company performance</li>\n  <li>Discounted health insurance with additional packages</li>\n  <li>Opportunities to participate in volunteer initiatives</li>\n  <li>Access to extensive learning resources and courses</li>\n  <li>Birthday bonus</li>\n  <li>Salary from: €3500,- Salary to: €3750,-</li>\n</ul>\n\n<h3>Work Location</h3>\n<p>Rotterdam</p>\n\n<h3>Company Description</h3>\n<p>Our client is a leading company in providing supply chain solutions worldwide. Known for their innovative approach and commitment to excellence, they have established a strong presence in the global market. Their team is dedicated to delivering top-notch services, ensuring that clients' needs are met with precision and efficiency. With a focus on continuous improvement and customer satisfaction, they offer a dynamic and supportive work environment that encourages professional growth and development.</p>\n\n<h3>Recruiter Contact</h3>\n<p>For more information about this exciting opportunity, please contact our recruitment team. They are ready to assist you with any questions and guide you through the application process.</p>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 8,
+        "NextAnswerId": 2,
+        "QuestionText_Unsafe": "<!-- UNIQUE_ID: 3f10bb8c -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"3f10bb8c\"></div>\n<h1>Customer Service Officer Import | Maritime</h1>\n\n<h3>Job Description</h3>\n<p>Embark on a journey with our client, a leader in global supply chain solutions, as a Customer Service Officer Import in the maritime sector. This role is pivotal in ensuring seamless import operations, requiring a blend of organizational prowess and a customer-centric approach. As a candidate with a strong command of both Dutch and English, you will navigate the complexities of international customer service with ease. Your previous experience in similar settings will be invaluable as you manage documentation requirements and apply your knowledge of shipping <strong>INCOTERMS</strong>. You will thrive in high-pressure environments, using your analytical skills and solution-oriented mindset to tackle challenges head-on. Your proactive attitude and excellent communication skills will be key in maintaining strong relationships with clients and partners.</p>\n\n<h3>Requirements</h3>\n<ul>\n  <li>Strong command of both Dutch and English</li>\n  <li>Highly organized, self-driven, and capable of planning and managing workflows</li>\n  <li>Prior experience in an international customer service setting</li>\n  <li>Solid understanding of documentation requirements</li>\n  <li>Proficient in Microsoft Office</li>\n  <li>Excellent verbal and written communication skills</li>\n  <li>Familiarity with shipping <strong>INCOTERMS</strong></li>\n  <li>Comfortable working in high-pressure environments</li>\n  <li>Analytical and solution-oriented approach to problem-solving</li>\n  <li>Customer-centric mindset with a proactive attitude</li>\n</ul>\n\n<h3>Working Conditions</h3>\n<ul>\n  <li>Fully covered pension contributions</li>\n  <li>Annual performance bonus based on personal and company performance</li>\n  <li>Discounted health insurance with additional packages</li>\n  <li>Opportunities to participate in volunteer initiatives</li>\n  <li>Access to extensive learning resources and courses</li>\n  <li>Birthday bonus</li>\n  <li>Salary from: €3500,- Salary to: €3750,-</li>\n</ul>\n\n<h3>Work Location</h3>\n<p>Rotterdam</p>\n\n<h3>Company Description</h3>\n<p>Our client is a leading company in providing supply chain solutions worldwide. Known for their innovative approach and commitment to excellence, they have established a strong presence in the global market. Their team is dedicated to delivering top-notch services, ensuring that clients' needs are met with precision and efficiency. With a focus on continuous improvement and customer satisfaction, they offer a dynamic and supportive work environment that encourages professional growth and development.</p>\n\n<h3>Recruiter Contact</h3>\n<p>For more information about this exciting opportunity, please contact our recruitment team. They are ready to assist you with any questions and guide you through the application process.</p>",
+        "DataExportTag": "Q3.2",
+        "QuestionID": "QID18"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID19",
+      "SecondaryAttribute": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Write short sentences (<15 words) - Try to start sentences with verb\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+        "Choices": {
+          "1": {
+            "Display": "1. Language Level"
+          },
+          "2": {
+            "Display": "2. Syntax/Grammar Rules"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Write short sentences (<15 words) - Try to start sentences with verb\n    </div>\n</div>",
+        "DataExportTag": "Q3.3",
+        "QuestionID": "QID19"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID20",
+      "SecondaryAttribute": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+        "Choices": {
+          "1": {
+            "Display": "3. Motivating Text"
+          },
+          "2": {
+            "Display": "4. Creativity Level"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DataExportTag": "Q3.4",
+        "QuestionID": "QID20"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID21",
+      "SecondaryAttribute": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        -Emphasize the role - use job title multiple times in the text - No discriminatory texts. e.g. Native speaker is not allowed - Use bullet points: • instead of \"-\"\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Business informal, Reserved\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+        "Choices": {
+          "1": {
+            "Display": "5. Content Rules"
+          },
+          "2": {
+            "Display": "6. Recruitment Company Tone of Voice"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        -Emphasize the role - use job title multiple times in the text - No discriminatory texts. e.g. Native speaker is not allowed - Use bullet points: • instead of \"-\"\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Business informal, Reserved\n    </div>\n</div>",
+        "DataExportTag": "Q3.5",
+        "QuestionID": "QID21"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID22",
+      "SecondaryAttribute": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Accuracy   - Process orientation   - Planning & coordination   - Responsibility\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+        "Choices": {
+          "1": {
+            "Display": "7. Applicant Profile"
+          },
+          "2": {
+            "Display": "8. Company Information"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies and challenges for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Accuracy   - Process orientation   - Planning & coordination   - Responsibility\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DataExportTag": "Q3.6",
+        "QuestionID": "QID22"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID23",
+      "SecondaryAttribute": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled \"Key Account Manager | Spanish\" Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled @“Key Account Manager Spanish.”@ Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DataExportTag": "Q4.1",
+        "QuestionID": "QID23"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID24",
+      "SecondaryAttribute": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<!-- UNIQUE_ID: 4b1a6da6 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"4b1a6da6\"></div>\n<h1>Key Account Manager | Spanish</h1>\n\n<h3>Job Description</h3>\n<p>Step into the dynamic world of mobile in-flight entertainment as a Key Account Manager. In this role, you will be at the forefront of driving strategic initiatives and fostering relationships with key clients. Your expertise in project management, program management, and inside sales will be pivotal in executing successful project initiatives. With your strong sales skills and affinity for technology, you will navigate the complexities of the aviation and IT sectors. Your ability to communicate fluently in English and Spanish will be essential as you liaise with international clients and partners. You will be responsible for translating client needs into technical terms for the IT team, ensuring seamless project execution. Your structured and process-oriented working style, coupled with cognitive and logical thinking, will enable you to thrive in critical situations. As a self-driven and adaptable professional, you will embrace the opportunity to travel internationally and engage with diverse cultural backgrounds.</p>\n\n<h3>Requirements</h3>\n<ul>\n  <li>Strong written and verbal communication skills in English & Spanish</li>\n  <li>Technical degree/qualification or equivalent level</li>\n  <li>Minimum 3 years of work experience in project management, program management, and/or inside sales functions</li>\n  <li>Proven track record of executing successful project initiatives</li>\n  <li>Strong sales skills/experience</li>\n  <li>Affinity with technology</li>\n  <li>Solid knowledge of Agile project management</li>\n  <li>Hardware experience is essential</li>\n  <li>Special interest in the aviation or IT sectors</li>\n  <li>Flexibility and openness to international travel</li>\n  <li>Ability to take clients' wishes and explain them in technical terms to the IT team</li>\n  <li>Cognitive and logical thinking</li>\n  <li>Structured and process-oriented working style</li>\n  <li>Eye for detail, self-driven enthusiasm, and a persuasive personality</li>\n  <li>Ability to rationalize in critical situations</li>\n  <li>Understanding and ability to deal with cultural differences between co-workers, customers, and partners</li>\n  <li>Self-driven and able to adapt quickly</li>\n  <li>Bonus: Experience with database and db scripts</li>\n  <li>Bonus: Experience with ticketing systems (e.g., Jira)</li>\n  <li>Bonus: Affinity with aviation and/or IFE</li>\n</ul>\n\n<h3>Working Conditions</h3>\n<ul>\n  <li>A flexible work environment with a startup mentality</li>\n  <li>A salary of €3,500 - €4,000 per month, based on experience</li>\n  <li>Reimbursed travel costs</li>\n</ul>\n\n<h3>Work Location</h3>\n<p>Den Haag</p>\n\n<h3>Company Description</h3>\n<p>Our client is a market leader in providing portable onboard WiFi platforms, Onboard Passenger Entertainment & Mobile Crew Sales Solutions to different passenger travel segments. As the world’s fastest-growing company in mobile in-flight entertainment, they are expanding their team globally. Known for their innovative approach and commitment to enhancing passenger experiences, they offer a dynamic and inclusive work environment. The company’s dedication to continuous improvement and product innovation sets them apart in the industry, making them a sought-after employer for professionals looking to make a significant impact.</p>\n\n<h3>Recruiter Contact</h3>\n<p>For more information about this exciting opportunity, please contact our recruitment team. We look forward to discussing how you can contribute to our client’s success and grow your career with us.</p>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 8,
+        "NextAnswerId": 2,
+        "QuestionText_Unsafe": "<!-- UNIQUE_ID: 4b1a6da6 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"4b1a6da6\"></div>\n<h1>Key Account Manager | Spanish</h1>\n\n<h3>Job Description</h3>\n<p>Step into the dynamic world of mobile in-flight entertainment as a Key Account Manager. In this role, you will be at the forefront of driving strategic initiatives and fostering relationships with key clients. Your expertise in project management, program management, and inside sales will be pivotal in executing successful project initiatives. With your strong sales skills and affinity for technology, you will navigate the complexities of the aviation and IT sectors. Your ability to communicate fluently in English and Spanish will be essential as you liaise with international clients and partners. You will be responsible for translating client needs into technical terms for the IT team, ensuring seamless project execution. Your structured and process-oriented working style, coupled with cognitive and logical thinking, will enable you to thrive in critical situations. As a self-driven and adaptable professional, you will embrace the opportunity to travel internationally and engage with diverse cultural backgrounds.</p>\n\n<h3>Requirements</h3>\n<ul>\n  <li>Strong written and verbal communication skills in English & Spanish</li>\n  <li>Technical degree/qualification or equivalent level</li>\n  <li>Minimum 3 years of work experience in project management, program management, and/or inside sales functions</li>\n  <li>Proven track record of executing successful project initiatives</li>\n  <li>Strong sales skills/experience</li>\n  <li>Affinity with technology</li>\n  <li>Solid knowledge of Agile project management</li>\n  <li>Hardware experience is essential</li>\n  <li>Special interest in the aviation or IT sectors</li>\n  <li>Flexibility and openness to international travel</li>\n  <li>Ability to take clients' wishes and explain them in technical terms to the IT team</li>\n  <li>Cognitive and logical thinking</li>\n  <li>Structured and process-oriented working style</li>\n  <li>Eye for detail, self-driven enthusiasm, and a persuasive personality</li>\n  <li>Ability to rationalize in critical situations</li>\n  <li>Understanding and ability to deal with cultural differences between co-workers, customers, and partners</li>\n  <li>Self-driven and able to adapt quickly</li>\n  <li>Bonus: Experience with database and db scripts</li>\n  <li>Bonus: Experience with ticketing systems (e.g., Jira)</li>\n  <li>Bonus: Affinity with aviation and/or IFE</li>\n</ul>\n\n<h3>Working Conditions</h3>\n<ul>\n  <li>A flexible work environment with a startup mentality</li>\n  <li>A salary of €3,500 - €4,000 per month, based on experience</li>\n  <li>Reimbursed travel costs</li>\n</ul>\n\n<h3>Work Location</h3>\n<p>Den Haag</p>\n\n<h3>Company Description</h3>\n<p>Our client is a market leader in providing portable onboard WiFi platforms, Onboard Passenger Entertainment & Mobile Crew Sales Solutions to different passenger travel segments. As the world’s fastest-growing company in mobile in-flight entertainment, they are expanding their team globally. Known for their innovative approach and commitment to enhancing passenger experiences, they offer a dynamic and inclusive work environment. The company’s dedication to continuous improvement and product innovation sets them apart in the industry, making them a sought-after employer for professionals looking to make a significant impact.</p>\n\n<h3>Recruiter Contact</h3>\n<p>For more information about this exciting opportunity, please contact our recruitment team. We look forward to discussing how you can contribute to our client’s success and grow your career with us.</p>",
+        "DataExportTag": "Q4.2",
+        "QuestionID": "QID24"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID25",
+      "SecondaryAttribute": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Write short sentences (<15 words) - Try to start sentences with verb\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+        "Choices": {
+          "1": {
+            "Display": "1. Language Level"
+          },
+          "2": {
+            "Display": "2. Syntax/Grammar Rules"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Write short sentences (<15 words) - Try to start sentences with verb\n    </div>\n</div>",
+        "DataExportTag": "Q4.3",
+        "QuestionID": "QID25"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID26",
+      "SecondaryAttribute": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+        "Choices": {
+          "1": {
+            "Display": "3. Motivating Text"
+          },
+          "2": {
+            "Display": "4. Creativity Level"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DataExportTag": "Q4.4",
+        "QuestionID": "QID26"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID27",
+      "SecondaryAttribute": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        -Emphasize the role - use job title multiple times in the text - No discriminatory texts. e.g. Native speaker is not allowed - Use bullet points: • instead of \"-\"\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Business informal, Reserved\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+        "Choices": {
+          "1": {
+            "Display": "5. Content Rules"
+          },
+          "2": {
+            "Display": "6. Recruitment Company Tone of Voice"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        -Emphasize the role - use job title multiple times in the text - No discriminatory texts. e.g. Native speaker is not allowed - Use bullet points: • instead of \"-\"\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Business informal, Reserved\n    </div>\n</div>",
+        "DataExportTag": "Q4.5",
+        "QuestionID": "QID27"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID28",
+      "SecondaryAttribute": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Relationship management   - Strategic thinking   - Result orientation   - Adaptability\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+        "Choices": {
+          "1": {
+            "Display": "7. Applicant Profile"
+          },
+          "2": {
+            "Display": "8. Company Information"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies and challenges for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Relationship management   - Strategic thinking   - Result orientation   - Adaptability\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DataExportTag": "Q4.6",
+        "QuestionID": "QID28"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID29",
+      "SecondaryAttribute": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled \"Cutting room employee\" Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled @“Key Account Manager Spanish.”@ Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DataExportTag": "Q5.1",
+        "QuestionID": "QID29"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID30",
+      "SecondaryAttribute": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<!-- UNIQUE_ID: 78083353 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"78083353\"></div>\n<h1>Cutting room employee</h1>\n\n<h3>Job Description</h3>\n<p>As a cutting room assistant, you contribute to the pre-processing and processing of meat. In this role, you support the cutters in the beef cutting room. You provide the cutters with meat, a task also known as \"throwing up,\" by tipping crates onto the cutting tables.</p>\n<ul>\n    <li>Operating meat processing machines such as a derinding machine, meatmaster, or slicer;</li>\n    <li>Performing weighing tasks;</li>\n    <li>Removing waste and supplying containers;</li>\n    <li>Cleaning tasks according to work instructions, often using a high-pressure hose;</li>\n    <li>Occasionally performing different tasks in other departments;</li>\n    <li>Working according to HACCP standards and company protocols.</li>\n</ul>\n<p>The start time at work is between 05:00 and 08:00 am depends on the department, and the end time is flexible. The work is usually an 8-hour shift, between Monday and Friday, but extra hours and extra days of the weekend are planned according to the operational needs.</p>\n\n<h3>Job Requirements</h3>\n<ul>\n    <li>You must be able to lift heavy crates, stand for extended periods, and have no other physical limitations.</li>\n    <li>The work is mostly team-based, but you must also be able to work independently.</li>\n    <li>You must speak English and/or Dutch.</li>\n    <li>You must be able to work according to HACCP standards and company protocols.</li>\n    <li>No specific prior education is required; you will be trained internally to the desired level.</li>\n    <li>You have an eye for detail and ensure consistent product quality.</li>\n    <li>Any deviations must be reported immediately to the supervisor.</li>\n    <li>You must not be limited in standing, walking, lifting, pushing, pulling, and reaching.</li>\n    <li>Additionally, the work is performed in a cooled environment (approximately 6 degrees Celsius).</li>\n    <li>Willingness to adhere to regulations regarding jewelry, nail polish and artificial nails, which are prohibited in food production environments.</li>\n</ul>\n\n<h3>Employment Conditions</h3>\n<ul>\n    <li>Employment contract with Charlie works</li>\n    <li>Health Insurance</li>\n    <li>Possibility for organized accommodation</li>\n    <li>Housing at a close distance</li>\n    <li>Electrical bike for transport to work</li>\n    <li>Weekly payments</li>\n    <li>Opportunity for professional growth</li>\n    <li>Friendly, multi-cultural, proud colleagues with a heart for production and a passion for quality</li>\n    <li>A cold environment allowance of €0,09 per hour</li>\n    <li>Annual December bonus of 3,25% of gross salary (with the condition of working at least 2 months in Luiten)</li>\n    <li>Referral bonus</li>\n    <li>Prospects of direct employment with Luiten</li>\n</ul>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 8,
+        "NextAnswerId": 2,
+        "QuestionText_Unsafe": "<!-- UNIQUE_ID: 78083353 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"78083353\"></div>\n<h1>Cutting room employee</h1>\n\n<h3>Job Description</h3>\n<p>As a cutting room assistant, you contribute to the pre-processing and processing of meat. In this role, you support the cutters in the beef cutting room. You provide the cutters with meat, a task also known as \"throwing up,\" by tipping crates onto the cutting tables.</p>\n<ul>\n    <li>Operating meat processing machines such as a derinding machine, meatmaster, or slicer;</li>\n    <li>Performing weighing tasks;</li>\n    <li>Removing waste and supplying containers;</li>\n    <li>Cleaning tasks according to work instructions, often using a high-pressure hose;</li>\n    <li>Occasionally performing different tasks in other departments;</li>\n    <li>Working according to HACCP standards and company protocols.</li>\n</ul>\n<p>The start time at work is between 05:00 and 08:00 am depends on the department, and the end time is flexible. The work is usually an 8-hour shift, between Monday and Friday, but extra hours and extra days of the weekend are planned according to the operational needs.</p>\n\n<h3>Job Requirements</h3>\n<ul>\n    <li>You must be able to lift heavy crates, stand for extended periods, and have no other physical limitations.</li>\n    <li>The work is mostly team-based, but you must also be able to work independently.</li>\n    <li>You must speak English and/or Dutch.</li>\n    <li>You must be able to work according to HACCP standards and company protocols.</li>\n    <li>No specific prior education is required; you will be trained internally to the desired level.</li>\n    <li>You have an eye for detail and ensure consistent product quality.</li>\n    <li>Any deviations must be reported immediately to the supervisor.</li>\n    <li>You must not be limited in standing, walking, lifting, pushing, pulling, and reaching.</li>\n    <li>Additionally, the work is performed in a cooled environment (approximately 6 degrees Celsius).</li>\n    <li>Willingness to adhere to regulations regarding jewelry, nail polish and artificial nails, which are prohibited in food production environments.</li>\n</ul>\n\n<h3>Employment Conditions</h3>\n<ul>\n    <li>Employment contract with Charlie works</li>\n    <li>Health Insurance</li>\n    <li>Possibility for organized accommodation</li>\n    <li>Housing at a close distance</li>\n    <li>Electrical bike for transport to work</li>\n    <li>Weekly payments</li>\n    <li>Opportunity for professional growth</li>\n    <li>Friendly, multi-cultural, proud colleagues with a heart for production and a passion for quality</li>\n    <li>A cold environment allowance of €0,09 per hour</li>\n    <li>Annual December bonus of 3,25% of gross salary (with the condition of working at least 2 months in Luiten)</li>\n    <li>Referral bonus</li>\n    <li>Prospects of direct employment with Luiten</li>\n</ul>",
+        "DataExportTag": "Q5.2",
+        "QuestionID": "QID30"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID31",
+      "SecondaryAttribute": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - high school level text - short sentences\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+        "Choices": {
+          "1": {
+            "Display": "1. Language Level"
+          },
+          "2": {
+            "Display": "2. Syntax/Grammar Rules"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - high school level text - short sentences\n    </div>\n</div>",
+        "DataExportTag": "Q5.3",
+        "QuestionID": "QID31"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID32",
+      "SecondaryAttribute": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+        "Choices": {
+          "1": {
+            "Display": "3. Motivating Text"
+          },
+          "2": {
+            "Display": "4. Creativity Level"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DataExportTag": "Q5.4",
+        "QuestionID": "QID32"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID33",
+      "SecondaryAttribute": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        keep job description general - include environmental factors if neccecary (e.g. hot/cold) - Job Requirements and Employment Conditions with bullets points  - begin with summary, only these aspects:\n(- job function - workplace location - weekly working hours - hourly wage)\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Helpful and encouraging engagement\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+        "Choices": {
+          "1": {
+            "Display": "5. Content Rules"
+          },
+          "2": {
+            "Display": "6. Recruitment Company Tone of Voice"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        keep job description general - include environmental factors if neccecary (e.g. hot/cold) - Job Requirements and Employment Conditions with bullets points  - begin with summary, only these aspects:\n(- job function - workplace location - weekly working hours - hourly wage)\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Helpful and encouraging engagement\n    </div>\n</div>",
+        "DataExportTag": "Q5.5",
+        "QuestionID": "QID33"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID34",
+      "SecondaryAttribute": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Reliability - Physical stamina - Safety awareness\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+        "Choices": {
+          "1": {
+            "Display": "7. Applicant Profile"
+          },
+          "2": {
+            "Display": "8. Company Information"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies and challenges for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Reliability - Physical stamina - Safety awareness\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DataExportTag": "Q5.6",
+        "QuestionID": "QID34"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID35",
+      "SecondaryAttribute": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled \"Customer Service Representative | Danish\" Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled @“Key Account Manager Spanish.”@ Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DataExportTag": "Q6.1",
+        "QuestionID": "QID35"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID36",
+      "SecondaryAttribute": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<!-- UNIQUE_ID: d8093414 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"d8093414\"></div>\n<h1>Customer Service Representative | Danish</h1>\n\n<h3>Job Description</h3>\n<p>As a Danish-speaking Customer Service Representative, you will:</p>\n<ul>\n  <li>Be the first point of contact for company dealers and partners, handling B2B & B2C interactions via email and phone.</li>\n  <li>Proactively reach out to businesses, ensuring their needs are met while identifying opportunities to up-sell and cross-sell.</li>\n  <li>Keep everything running smoothly by accurately updating and maintaining information in the company system.</li>\n  <li>You'll play a key role in building strong relationships and driving success in the Danish market.</li>\n  <li>You will also act as back up for the Dutch team</li>\n</ul>\n<p>Ready to make an impact?</p>\n\n<h3>Requirements</h3>\n<p>Are you the perfect fit for this role? We’re looking for someone who:</p>\n<ul>\n  <li>Speaks excellent Danish and Dutch (<strong>B2 level or higher is a MUST</strong>)</li>\n  <li>Is available for at least 32 hours per week (40 hours preferred)</li>\n  <li>Has an HBO/MBO degree or equivalent thinking level</li>\n  <li>Has technical knowledge or affinity and excels in client interactions</li>\n  <li>Is proactive, confident, and not afraid to pick up the phone to connect with people</li>\n</ul>\n<p>In this role, you’ll be working in the Danish market and collaborating closely with a Dutch team, acting as back-up when required.</p>\n<p>Ready to take on the challenge?</p>\n\n<h3>Working Conditions</h3>\n<ul>\n  <li>Training and learning opportunities</li>\n  <li>Very nice and motivated international team</li>\n  <li>Your well-being as an employee will be put in the first place</li>\n  <li>Hybrid working (usually 3 days at the office and 2 at home)</li>\n  <li>Travel allowance</li>\n  <li>Working from home allowance</li>\n  <li>Salary from: €3000,-</li>\n  <li>Salary to: €3700,-</li>\n</ul>\n\n<h3>Work Location</h3>\n<p>Dieren</p>\n\n<h3>Company Description</h3>\n<p>If you think of the Netherlands there are some things that certainly come to your mind: stroopwafels, windmills and, of course, bikes! My client is a Dutch company that is recognized abroad as a winning brand. They are now expanding their Export Team and are, therefore, looking for you.</p>\n\n<h3>Recruiter Contact</h3>\n<p>Please contact us at [insert contact information here].</p>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 8,
+        "NextAnswerId": 2,
+        "QuestionText_Unsafe": "<!-- UNIQUE_ID: d8093414 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"d8093414\"></div>\n<h1>Customer Service Representative | Danish</h1>\n\n<h3>Job Description</h3>\n<p>As a Danish-speaking Customer Service Representative, you will:</p>\n<ul>\n  <li>Be the first point of contact for company dealers and partners, handling B2B & B2C interactions via email and phone.</li>\n  <li>Proactively reach out to businesses, ensuring their needs are met while identifying opportunities to up-sell and cross-sell.</li>\n  <li>Keep everything running smoothly by accurately updating and maintaining information in the company system.</li>\n  <li>You'll play a key role in building strong relationships and driving success in the Danish market.</li>\n  <li>You will also act as back up for the Dutch team</li>\n</ul>\n<p>Ready to make an impact?</p>\n\n<h3>Requirements</h3>\n<p>Are you the perfect fit for this role? We’re looking for someone who:</p>\n<ul>\n  <li>Speaks excellent Danish and Dutch (<strong>B2 level or higher is a MUST</strong>)</li>\n  <li>Is available for at least 32 hours per week (40 hours preferred)</li>\n  <li>Has an HBO/MBO degree or equivalent thinking level</li>\n  <li>Has technical knowledge or affinity and excels in client interactions</li>\n  <li>Is proactive, confident, and not afraid to pick up the phone to connect with people</li>\n</ul>\n<p>In this role, you’ll be working in the Danish market and collaborating closely with a Dutch team, acting as back-up when required.</p>\n<p>Ready to take on the challenge?</p>\n\n<h3>Working Conditions</h3>\n<ul>\n  <li>Training and learning opportunities</li>\n  <li>Very nice and motivated international team</li>\n  <li>Your well-being as an employee will be put in the first place</li>\n  <li>Hybrid working (usually 3 days at the office and 2 at home)</li>\n  <li>Travel allowance</li>\n  <li>Working from home allowance</li>\n  <li>Salary from: €3000,-</li>\n  <li>Salary to: €3700,-</li>\n</ul>\n\n<h3>Work Location</h3>\n<p>Dieren</p>\n\n<h3>Company Description</h3>\n<p>If you think of the Netherlands there are some things that certainly come to your mind: stroopwafels, windmills and, of course, bikes! My client is a Dutch company that is recognized abroad as a winning brand. They are now expanding their Export Team and are, therefore, looking for you.</p>\n\n<h3>Recruiter Contact</h3>\n<p>Please contact us at [insert contact information here].</p>",
+        "DataExportTag": "Q6.2",
+        "QuestionID": "QID36"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID37",
+      "SecondaryAttribute": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Write short sentences (<15 words) - Try to start sentences with verb\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+        "Choices": {
+          "1": {
+            "Display": "1. Language Level"
+          },
+          "2": {
+            "Display": "2. Syntax/Grammar Rules"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Write short sentences (<15 words) - Try to start sentences with verb\n    </div>\n</div>",
+        "DataExportTag": "Q6.3",
+        "QuestionID": "QID37"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID38",
+      "SecondaryAttribute": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+        "Choices": {
+          "1": {
+            "Display": "3. Motivating Text"
+          },
+          "2": {
+            "Display": "4. Creativity Level"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DataExportTag": "Q6.4",
+        "QuestionID": "QID38"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID39",
+      "SecondaryAttribute": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        -Emphasize the role - use job title multiple times in the text - No discriminatory texts. e.g. Native speaker is not allowed - Use bullet points: • instead of \"-\"\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Business informal, Reserved\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+        "Choices": {
+          "1": {
+            "Display": "5. Content Rules"
+          },
+          "2": {
+            "Display": "6. Recruitment Company Tone of Voice"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        -Emphasize the role - use job title multiple times in the text - No discriminatory texts. e.g. Native speaker is not allowed - Use bullet points: • instead of \"-\"\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Business informal, Reserved\n    </div>\n</div>",
+        "DataExportTag": "Q6.5",
+        "QuestionID": "QID39"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID40",
+      "SecondaryAttribute": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Customer orientation   - Commercial awareness   - Assertiveness   - Team collaboration\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+        "Choices": {
+          "1": {
+            "Display": "7. Applicant Profile"
+          },
+          "2": {
+            "Display": "8. Company Information"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies and challenges for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Customer orientation   - Commercial awareness   - Assertiveness   - Team collaboration\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DataExportTag": "Q6.6",
+        "QuestionID": "QID40"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID41",
+      "SecondaryAttribute": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled \"Key Account Manager | Spanish\" Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled @“Key Account Manager Spanish.”@ Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DataExportTag": "Q7.1",
+        "QuestionID": "QID41"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID42",
+      "SecondaryAttribute": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<!-- UNIQUE_ID: 4b0a6da6 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"4b0a6da6\"></div>\n<h1>Key Account Manager | Spanish</h1>\n\n<h3>Job Description</h3>\n<p>As its core, this role is all about the customer - ensuring they receive the best possible experience throughout their lifecycle. You will play a pivotal role in helping airlines adopt Onboard Passenger Entertainment and Inflight Connectivity Solutions (LEO). Your work directly shapes the future of inflight digital services, ensuring innovative, secure, and cost effective connectivity solutions for airlines and passengers alike. This requires maintaining relationships both internally and externally with cultural sensitivity and the drive to bridge differences between people and organizations. Work with highly skilled colleagues and partners, both on-shore and offshore, who are passionate and driven about their profession, including developers, architects, testers and product owners. You will liaise with different departments of the organization; and deliver an end-to-end rollout. After the sales team onboards a new customer, your magic begins by delivering the project within the agreed timelines and in a successful manner. After go-live, your role is to ensure customer satisfaction, continued engagement and up-sell/cross sell opportunities, while starting new implementations throughout the process. Also, you monitor the revenue stream keeping balance within all monetary transactions.</p>\n<ul>\n    <li>Engage in initial customer interaction during the sales phase and gauge customer behavior</li>\n    <li>Align customer requirements with our offerings</li>\n    <li>Gather detailed requirements and define project scope, identify risks and mitigations and determine and develop project plans with clear scope and deliverables across all impacted functional areas</li>\n    <li>Develop deep, mutually beneficial working relationships with various customers and stakeholders, including customers, internal product and engineering teams. You'll make sure that roadmaps - on both sides - are periodized appropriately, and that all teams in lockstep with one another</li>\n    <li>Conduct sessions with the development team to help explain the requirements for implementation</li>\n    <li>Post-implementation support in the form of intensive care</li>\n    <li>Provide seamless change management for projects and programs</li>\n    <li>Become a subject matter expert on our business processes and technology platforms and propose/execute improvements and changes to our customers and internally</li>\n    <li>Prepare supporting documents for changes, if any; and tasks for the development team to execute project implementations</li>\n    <li>Budget and CR documents, if any</li>\n    <li>Liaison with the internal logistic team and content team, if needed</li>\n    <li>Support customers IT/Logistics/Ground handling team to help define their operational processes</li>\n    <li>Share collaterals with customers and conduct training</li>\n    <li>Ensure customers are satisfied with our product(s), and look for possible opportunities to cross-sell / up-sell</li>\n    <li>Increase customer lifetime value and reduce churn</li>\n    <li>Business development activities</li>\n    <li>Technical problem solving</li>\n    <li>Customer Relationship Management</li>\n    <li>Manage end-to-end monetary transactions such as licenses, content consumptions, administrate airline fleet changes and others</li>\n</ul>\n\n<h3>Requirements</h3>\n<p>Who are you?</p>\n<ul>\n    <li><strong>Strong written and verbal communication skills in English & Spanish</strong></li>\n    <li><strong>Technical degree / qualification or equivalent level</strong></li>\n    <li><strong>Minimum 3 years of work experience in project management, program management and/or inside sales functions, with a proven track record of executing successful project initiatives.</strong></li>\n    <li><strong>Strong sales skills / experience</strong></li>\n    <li><strong>Affinity with technology</strong></li>\n    <li><strong>Solid knowledge of Agile project management</strong></li>\n    <li><strong>Hardware experience is essential</strong></li>\n    <li><strong>Special interest in the aviation or IT sectors</strong></li>\n    <li>You are flexible and open to international travel</li>\n    <li>Able to take clients' wishes and explain it in technical terms to IT team</li>\n    <li>Cognitive and logical thinking</li>\n    <li>Structured and process-orientated working style</li>\n    <li>An eye for detail, self-driven enthusiasm and a persuasive personality where you are not afraid to speak to achieve your goals</li>\n    <li>Ability to rationale in critical situations</li>\n    <li>Understanding and being able to deal with cultural differences between co-workers, customers and partners</li>\n    <li>Self-driven and able to adapt quickly</li>\n    <li>Bonus if you have:</li>\n    <ul>\n        <li>Experience with database and db scripts</li>\n        <li>Experience with ticketing systems (e.g. Jira)</li>\n        <li>Affinity with aviation and or IFE</li>\n    </ul>\n</ul>\n\n<h3>Working Conditions</h3>\n<p>What does the company offer?</p>\n<ul>\n    <li>Our client is a mix of different backgrounds and they work with international counterparts everyday.</li>\n    <li>They are a proud team always aiming to improve and innovate their products every day.</li>\n    <li>A flexible work environment with a startup mentality</li>\n    <li>A salary of €3.500 - €4.000 euros per month, based on experience</li>\n    <li>Reimbursed travel costs</li>\n    <li>Salary from: €3500,-</li>\n    <li>Salary to: €4000,-</li>\n</ul>\n\n<h3>Work Location</h3>\n<p>Den Haag</p>\n\n<h3>Company Description</h3>\n<p>Our client is a market leader in providing portable onboard WiFi platforms, Onboard Passenger Entertainment & Mobile Crew Sales Solutions to different passenger travel segments. They are expanding their team globally and are the world’s fastest growing company in mobile in-flight entertainment.</p>\n\n<h3>Recruiter Contact</h3>\n<p>Please contact our HR department for any further details you require.</p>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 8,
+        "NextAnswerId": 2,
+        "QuestionText_Unsafe": "<!-- UNIQUE_ID: 4b0a6da6 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"4b0a6da6\"></div>\n<h1>Key Account Manager | Spanish</h1>\n\n<h3>Job Description</h3>\n<p>As its core, this role is all about the customer - ensuring they receive the best possible experience throughout their lifecycle. You will play a pivotal role in helping airlines adopt Onboard Passenger Entertainment and Inflight Connectivity Solutions (LEO). Your work directly shapes the future of inflight digital services, ensuring innovative, secure, and cost effective connectivity solutions for airlines and passengers alike. This requires maintaining relationships both internally and externally with cultural sensitivity and the drive to bridge differences between people and organizations. Work with highly skilled colleagues and partners, both on-shore and offshore, who are passionate and driven about their profession, including developers, architects, testers and product owners. You will liaise with different departments of the organization; and deliver an end-to-end rollout. After the sales team onboards a new customer, your magic begins by delivering the project within the agreed timelines and in a successful manner. After go-live, your role is to ensure customer satisfaction, continued engagement and up-sell/cross sell opportunities, while starting new implementations throughout the process. Also, you monitor the revenue stream keeping balance within all monetary transactions.</p>\n<ul>\n    <li>Engage in initial customer interaction during the sales phase and gauge customer behavior</li>\n    <li>Align customer requirements with our offerings</li>\n    <li>Gather detailed requirements and define project scope, identify risks and mitigations and determine and develop project plans with clear scope and deliverables across all impacted functional areas</li>\n    <li>Develop deep, mutually beneficial working relationships with various customers and stakeholders, including customers, internal product and engineering teams. You'll make sure that roadmaps - on both sides - are periodized appropriately, and that all teams in lockstep with one another</li>\n    <li>Conduct sessions with the development team to help explain the requirements for implementation</li>\n    <li>Post-implementation support in the form of intensive care</li>\n    <li>Provide seamless change management for projects and programs</li>\n    <li>Become a subject matter expert on our business processes and technology platforms and propose/execute improvements and changes to our customers and internally</li>\n    <li>Prepare supporting documents for changes, if any; and tasks for the development team to execute project implementations</li>\n    <li>Budget and CR documents, if any</li>\n    <li>Liaison with the internal logistic team and content team, if needed</li>\n    <li>Support customers IT/Logistics/Ground handling team to help define their operational processes</li>\n    <li>Share collaterals with customers and conduct training</li>\n    <li>Ensure customers are satisfied with our product(s), and look for possible opportunities to cross-sell / up-sell</li>\n    <li>Increase customer lifetime value and reduce churn</li>\n    <li>Business development activities</li>\n    <li>Technical problem solving</li>\n    <li>Customer Relationship Management</li>\n    <li>Manage end-to-end monetary transactions such as licenses, content consumptions, administrate airline fleet changes and others</li>\n</ul>\n\n<h3>Requirements</h3>\n<p>Who are you?</p>\n<ul>\n    <li><strong>Strong written and verbal communication skills in English & Spanish</strong></li>\n    <li><strong>Technical degree / qualification or equivalent level</strong></li>\n    <li><strong>Minimum 3 years of work experience in project management, program management and/or inside sales functions, with a proven track record of executing successful project initiatives.</strong></li>\n    <li><strong>Strong sales skills / experience</strong></li>\n    <li><strong>Affinity with technology</strong></li>\n    <li><strong>Solid knowledge of Agile project management</strong></li>\n    <li><strong>Hardware experience is essential</strong></li>\n    <li><strong>Special interest in the aviation or IT sectors</strong></li>\n    <li>You are flexible and open to international travel</li>\n    <li>Able to take clients' wishes and explain it in technical terms to IT team</li>\n    <li>Cognitive and logical thinking</li>\n    <li>Structured and process-orientated working style</li>\n    <li>An eye for detail, self-driven enthusiasm and a persuasive personality where you are not afraid to speak to achieve your goals</li>\n    <li>Ability to rationale in critical situations</li>\n    <li>Understanding and being able to deal with cultural differences between co-workers, customers and partners</li>\n    <li>Self-driven and able to adapt quickly</li>\n    <li>Bonus if you have:</li>\n    <ul>\n        <li>Experience with database and db scripts</li>\n        <li>Experience with ticketing systems (e.g. Jira)</li>\n        <li>Affinity with aviation and or IFE</li>\n    </ul>\n</ul>\n\n<h3>Working Conditions</h3>\n<p>What does the company offer?</p>\n<ul>\n    <li>Our client is a mix of different backgrounds and they work with international counterparts everyday.</li>\n    <li>They are a proud team always aiming to improve and innovate their products every day.</li>\n    <li>A flexible work environment with a startup mentality</li>\n    <li>A salary of €3.500 - €4.000 euros per month, based on experience</li>\n    <li>Reimbursed travel costs</li>\n    <li>Salary from: €3500,-</li>\n    <li>Salary to: €4000,-</li>\n</ul>\n\n<h3>Work Location</h3>\n<p>Den Haag</p>\n\n<h3>Company Description</h3>\n<p>Our client is a market leader in providing portable onboard WiFi platforms, Onboard Passenger Entertainment & Mobile Crew Sales Solutions to different passenger travel segments. They are expanding their team globally and are the world’s fastest growing company in mobile in-flight entertainment.</p>\n\n<h3>Recruiter Contact</h3>\n<p>Please contact our HR department for any further details you require.</p>",
+        "DataExportTag": "Q7.2",
+        "QuestionID": "QID42"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID43",
+      "SecondaryAttribute": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Write short sentences (<15 words) - Try to start sentences with verb\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+        "Choices": {
+          "1": {
+            "Display": "1. Language Level"
+          },
+          "2": {
+            "Display": "2. Syntax/Grammar Rules"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Write short sentences (<15 words) - Try to start sentences with verb\n    </div>\n</div>",
+        "DataExportTag": "Q7.3",
+        "QuestionID": "QID43"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID44",
+      "SecondaryAttribute": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+        "Choices": {
+          "1": {
+            "Display": "3. Motivating Text"
+          },
+          "2": {
+            "Display": "4. Creativity Level"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DataExportTag": "Q7.4",
+        "QuestionID": "QID44"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID45",
+      "SecondaryAttribute": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        -Emphasize the role - use job title multiple times in the text - No discriminatory texts. e.g. Native speaker is not allowed - Use bullet points: • instead of \"-\"\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Business informal, Reserved\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+        "Choices": {
+          "1": {
+            "Display": "5. Content Rules"
+          },
+          "2": {
+            "Display": "6. Recruitment Company Tone of Voice"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        -Emphasize the role - use job title multiple times in the text - No discriminatory texts. e.g. Native speaker is not allowed - Use bullet points: • instead of \"-\"\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Business informal, Reserved\n    </div>\n</div>",
+        "DataExportTag": "Q7.5",
+        "QuestionID": "QID45"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID46",
+      "SecondaryAttribute": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Relationship management   - Strategic thinking   - Result orientation   - Adaptability\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+        "Choices": {
+          "1": {
+            "Display": "7. Applicant Profile"
+          },
+          "2": {
+            "Display": "8. Company Information"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies and challenges for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Relationship management   - Strategic thinking   - Result orientation   - Adaptability\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DataExportTag": "Q7.6",
+        "QuestionID": "QID46"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID47",
+      "SecondaryAttribute": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled \"Cutting room employee\" Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Evaluation metrics You will be asked to evaluate the quality of the job listings according to fou...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<h2>Evaluation metrics</h2>\n<p>\n  You will be asked to evaluate the quality of the job listings according to four quality dimensions: \n  <strong>clarity</strong>, <strong>relevance</strong>, <strong>correctness</strong>, and <strong>completeness</strong>. <br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>\n  For each job listing, please indicate your level of agreement with each statement below using the 1–5 scale.\n</p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p>\n\n<hr> Below you will find a job description for the vacancy titled @“Key Account Manager Spanish.”@ Please read the text carefully, as you will be asked to assess its quality based on the previously presented evaluation criteria. <br>",
+        "DataExportTag": "Q8.1",
+        "QuestionID": "QID47"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID48",
+      "SecondaryAttribute": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<!-- UNIQUE_ID: 78183353 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"78183353\"></div>\n<h1>Cutting room employee</h1>\n\n<p><strong>Job Title:</strong> Cutting Room Employee<br>\n<strong>Location:</strong> Zoetermeer<br>\n<strong>Employment Type:</strong> Full-time<br>\n<strong>Hours per Week:</strong> 36 hours<br>\n<strong>Salary Indication:</strong> €14.5 per hour</p>\n\n<h3>Job Description</h3>\n<p>Join Luiten, a warm family business in the production sector, as a Cutting Room Employee in Zoetermeer. This full-time role offers 36 hours per week at a competitive hourly wage of €14.5. You will be part of a dynamic team, working in a cooled environment of approximately 6 degrees Celsius. Your primary responsibilities include lifting heavy crates, standing for extended periods, and ensuring consistent product quality. You will be trained internally to meet the desired standards, so no specific prior education is required. Your role is crucial in maintaining the high standards of Luiten, where attention to detail and adherence to HACCP standards and company protocols are paramount. You will report any deviations immediately to your supervisor, ensuring that Luiten continues to deliver top-quality products to its clients.</p>\n\n<h3>Job Requirements</h3>\n<ul>\n    <li>Ability to lift heavy crates and stand for extended periods</li>\n    <li>No physical limitations in standing, walking, lifting, pushing, pulling, and reaching</li>\n    <li>Ability to work in a cooled environment (approximately 6 degrees Celsius)</li>\n    <li>Team-oriented with the ability to work independently</li>\n    <li>Proficiency in English and/or Dutch</li>\n    <li>Willingness to adhere to regulations regarding jewelry, nail polish, and artificial nails</li>\n    <li>Eye for detail to ensure consistent product quality</li>\n</ul>\n\n<h3>Employment Conditions</h3>\n<ul>\n    <li>Employment contract with Charlie works</li>\n    <li>Health Insurance</li>\n    <li>Possibility for organized accommodation</li>\n    <li>Housing at a close distance</li>\n    <li>Electrical bike for transport to work</li>\n    <li>Weekly payments</li>\n    <li>Opportunity for professional growth</li>\n    <li>Friendly, multi-cultural, proud colleagues with a heart for production and a passion for quality</li>\n    <li>A cold environment allowance of €0,09 per hour</li>\n    <li>Annual December bonus of 3,25% of gross salary (with the condition of working at least 2 months in Luiten)</li>\n    <li>Referral bonus</li>\n    <li>Prospects of direct employment with Luiten</li>\n</ul>\n\n<p>Luiten Food – Thomas Foods Europa is a family-owned company based in Stompwijk, known for its loyal, experienced, and dedicated team. Initially an importer of meat, game, and poultry, Luiten has expanded its offerings significantly. The company is now a vital partner for supermarket and wholesale clients, providing services such as product development, portioning, marinating, packaging, and labeling. Luiten's commitment to quality and reliability has made it a leader in importing proteins that are not readily available in Europe. The partnership with Thomas Foods International has strengthened Luiten's position, ensuring product exclusivity and security. Luiten's focus on sustainable collaborations and continuous improvement ensures that it remains a trusted partner, delivering on promises and investing in growth, technology, and its people.</p>",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 8,
+        "NextAnswerId": 2,
+        "QuestionText_Unsafe": "<!-- UNIQUE_ID: 78183353 -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"78183353\"></div>\n<h1>Cutting room employee</h1>\n\n<p><strong>Job Title:</strong> Cutting Room Employee<br>\n<strong>Location:</strong> Zoetermeer<br>\n<strong>Employment Type:</strong> Full-time<br>\n<strong>Hours per Week:</strong> 36 hours<br>\n<strong>Salary Indication:</strong> €14.5 per hour</p>\n\n<h3>Job Description</h3>\n<p>Join Luiten, a warm family business in the production sector, as a Cutting Room Employee in Zoetermeer. This full-time role offers 36 hours per week at a competitive hourly wage of €14.5. You will be part of a dynamic team, working in a cooled environment of approximately 6 degrees Celsius. Your primary responsibilities include lifting heavy crates, standing for extended periods, and ensuring consistent product quality. You will be trained internally to meet the desired standards, so no specific prior education is required. Your role is crucial in maintaining the high standards of Luiten, where attention to detail and adherence to HACCP standards and company protocols are paramount. You will report any deviations immediately to your supervisor, ensuring that Luiten continues to deliver top-quality products to its clients.</p>\n\n<h3>Job Requirements</h3>\n<ul>\n    <li>Ability to lift heavy crates and stand for extended periods</li>\n    <li>No physical limitations in standing, walking, lifting, pushing, pulling, and reaching</li>\n    <li>Ability to work in a cooled environment (approximately 6 degrees Celsius)</li>\n    <li>Team-oriented with the ability to work independently</li>\n    <li>Proficiency in English and/or Dutch</li>\n    <li>Willingness to adhere to regulations regarding jewelry, nail polish, and artificial nails</li>\n    <li>Eye for detail to ensure consistent product quality</li>\n</ul>\n\n<h3>Employment Conditions</h3>\n<ul>\n    <li>Employment contract with Charlie works</li>\n    <li>Health Insurance</li>\n    <li>Possibility for organized accommodation</li>\n    <li>Housing at a close distance</li>\n    <li>Electrical bike for transport to work</li>\n    <li>Weekly payments</li>\n    <li>Opportunity for professional growth</li>\n    <li>Friendly, multi-cultural, proud colleagues with a heart for production and a passion for quality</li>\n    <li>A cold environment allowance of €0,09 per hour</li>\n    <li>Annual December bonus of 3,25% of gross salary (with the condition of working at least 2 months in Luiten)</li>\n    <li>Referral bonus</li>\n    <li>Prospects of direct employment with Luiten</li>\n</ul>\n\n<p>Luiten Food – Thomas Foods Europa is a family-owned company based in Stompwijk, known for its loyal, experienced, and dedicated team. Initially an importer of meat, game, and poultry, Luiten has expanded its offerings significantly. The company is now a vital partner for supermarket and wholesale clients, providing services such as product development, portioning, marinating, packaging, and labeling. Luiten's commitment to quality and reliability has made it a leader in importing proteins that are not readily available in Europe. The partnership with Thomas Foods International has strengthened Luiten's position, ensuring product exclusivity and security. Luiten's focus on sustainable collaborations and continuous improvement ensures that it remains a trusted partner, delivering on promises and investing in growth, technology, and its people.</p>",
+        "DataExportTag": "Q8.2",
+        "QuestionID": "QID48"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID49",
+      "SecondaryAttribute": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - high school level text - short sentences\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+        "Choices": {
+          "1": {
+            "Display": "1. Language Level"
+          },
+          "2": {
+            "Display": "2. Syntax/Grammar Rules"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - high school level text - short sentences\n    </div>\n</div>",
+        "DataExportTag": "Q8.3",
+        "QuestionID": "QID49"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID50",
+      "SecondaryAttribute": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Relevance 3. Motivating Text: The job listing effectively motivates potential candidates to apply...",
+        "Choices": {
+          "1": {
+            "Display": "3. Motivating Text"
+          },
+          "2": {
+            "Display": "4. Creativity Level"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Relevance</h2>\n\n<br><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.\n\n<br><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.",
+        "DataExportTag": "Q8.4",
+        "QuestionID": "QID50"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID51",
+      "SecondaryAttribute": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        keep job description general - include environmental factors if neccecary (e.g. hot/cold) - Job Requirements and Employment Conditions with bullets points  - begin with summary, only these aspects:\n(- job function - workplace location - weekly working hours - hourly wage)\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Helpful and encouraging engagement\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Correctness 5. Content Rules: The job listing includes all content rules set by the recruitment c...",
+        "Choices": {
+          "1": {
+            "Display": "5. Content Rules"
+          },
+          "2": {
+            "Display": "6. Recruitment Company Tone of Voice"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Correctness</h2><div><br></div>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Content Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        keep job description general - include environmental factors if neccecary (e.g. hot/cold) - Job Requirements and Employment Conditions with bullets points  - begin with summary, only these aspects:\n(- job function - workplace location - weekly working hours - hourly wage)\n    </div>\n</div><br><br><p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Tone of Voice</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        Helpful and encouraging engagement\n    </div>\n</div>",
+        "DataExportTag": "Q8.5",
+        "QuestionID": "QID51"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID52",
+      "SecondaryAttribute": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Reliability - Physical stamina - Safety awareness\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DefaultChoices": false,
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Completeness 7. Applicant Profile: The job listing reflects the competencies for the target candi...",
+        "Choices": {
+          "1": {
+            "Display": "7. Applicant Profile"
+          },
+          "2": {
+            "Display": "8. Company Information"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Completeness</h2>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies and challenges for the target candidate.</p>\n\n<div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Ideal Candidate Profile</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - Reliability - Physical stamina - Safety awareness\n    </div>\n</div><br><br><p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>",
+        "DataExportTag": "Q8.6",
+        "QuestionID": "QID52"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID7",
+      "SecondaryAttribute": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<!-- UNIQUE_ID: c30128ff -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"c30128ff\"></div>\n<h1>Logistics employee – containers unloading</h1>\n<h3>Job Description</h3>\n<p>As a Container Unloader at the Distribution Center, you will play a crucial role in ensuring that shipments are processed efficiently and accurately. You will work as part of a dynamic team to unload goods from containers and organize them for distribution to our retail locations. Your key responsibilities are to unload the goods safely, seal them, and prepare them for safe pickup.</p>\n<h3>Job Requirements</h3>\n<ul>\n  <li>Prior experience in a warehouse or distribution center environment</li>\n  <li>Experience with unloading is a plus</li>\n  <li>Physical ability to perform the job</li>\n  <li>English speaking skills</li>\n  <li>You can work accurately and independently</li>\n  <li>You are flexible in working hours and willing to work in shifts</li>\n  <li>You are able to operate MHE</li>\n</ul>\n<h3>Employment Conditions</h3>\n<ul>\n  <li>Employment contract with <strong>Charlie works</strong></li>\n  <li>Health Insurance</li>\n  <li>Possibility for organized accommodation</li>\n  <li>Organized transport to work</li>\n  <li>Weekly payments</li>\n  <li>Opportunity for professional growth</li>\n  <li>Travel allowance</li>\n</ul>",
+        "DefaultChoices": false,
+        "DataExportTag": "Q2.2",
+        "QuestionID": "QID7",
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Key Account Manager | Spanish Job description As its core, this role is all about the customer -...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 8,
+        "NextAnswerId": 2,
+        "QuestionText_Unsafe": "<!-- UNIQUE_ID: c30128ff -->\n<div style=\"display:none\" class=\"unique-identifier\" data-unique-id=\"c30128ff\"></div>\n<h1>Logistics employee – containers unloading</h1>\n<h3>Job Description</h3>\n<p>As a Container Unloader at the Distribution Center, you will play a crucial role in ensuring that shipments are processed efficiently and accurately. You will work as part of a dynamic team to unload goods from containers and organize them for distribution to our retail locations. Your key responsibilities are to unload the goods safely, seal them, and prepare them for safe pickup.</p>\n<h3>Job Requirements</h3>\n<ul>\n  <li>Prior experience in a warehouse or distribution center environment</li>\n  <li>Experience with unloading is a plus</li>\n  <li>Physical ability to perform the job</li>\n  <li>English speaking skills</li>\n  <li>You can work accurately and independently</li>\n  <li>You are flexible in working hours and willing to work in shifts</li>\n  <li>You are able to operate MHE</li>\n</ul>\n<h3>Employment Conditions</h3>\n<ul>\n  <li>Employment contract with <strong>Charlie works</strong></li>\n  <li>Health Insurance</li>\n  <li>Possibility for organized accommodation</li>\n  <li>Organized transport to work</li>\n  <li>Weekly payments</li>\n  <li>Opportunity for professional growth</li>\n  <li>Travel allowance</li>\n</ul>"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID8",
+      "SecondaryAttribute": "Job Listing Quality Evaluation Survey Introduction This survey is part of an MSc Project at the M...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<title>Job Listing Quality Evaluation Survey</title>\n\n<h1>Job Listing Quality Evaluation Survey</h1>\n\n<h2>Introduction</h2>\n<p>This survey is part of an MSc Project at the Master Information Studies Programme at the University of Amsterdam.</p><p>This survey evaluates the quality of job listings to establish the reliability of evaluation criteria and forms the basis for a framework for automated job listing generation. Your ratings will help determine which quality metrics can be reliably assessed across different evaluators.</p>\n\n<p>The job listings you will evaluate include both human-written and generated texts, presented in randomized order. You will not be informed which listings are human-written versus AI-generated.</p><p><br></p>\n\n<h2>Instructions</h2>\n<p>There are 7 different vacancies that need to be validated on Clarity, relevance, correctness and completeness. For each job listing, please indicate your level of agreement with each statement above using the 1–5 likert scale. <br></p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p><p>About this survey <br></p><p><br></p><p><br></p><h2>Important details before starting</h2>\n<p>\n  This survey will take approximately 20–25 minutes to complete. Your responses will be used for research and development purposes by <strong>MySolution</strong>.\n</p>\n<p>\n  No personal data will be collected, and all responses will remain completely anonymous. Your participation is voluntary, and you may stop at any time. The data will be used solely for evaluating and improving the quality of generated job listings. By starting with the survey you agree to the statements in this section and acknowledge that you read them.</p><p></p>",
+        "DefaultChoices": false,
+        "DataExportTag": "Q1.1",
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Job Listing Quality Evaluation Survey Introduction This survey is part of an MSc Project at the M...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 9,
+        "NextAnswerId": 1,
+        "QuestionID": "QID8",
+        "QuestionText_Unsafe": "<title>Job Listing Quality Evaluation Survey</title>\n\n<h1>Job Listing Quality Evaluation Survey</h1>\n\n<h2>Introduction</h2>\n<p>This survey evaluates the quality of job listings to establish the reliability of evaluation criteria and forms the basis for a framework for automated job listing generation. Your ratings will help determine which quality metrics can be reliably assessed across different evaluators.</p>\n\n<p>The job listings you will evaluate include both human-written and generated texts, presented in randomized order. You will not be informed which listings are human-written versus AI-generated.</p><p><br></p><p><br></p>\n\n<h2>Evaluation Metrics</h2>\n\n<h3>Clarity</h3>\n<p><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.</p>\n<p><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company (rules will be provided with each listing).</p><p><br></p>\n\n<h3>Relevance</h3>\n<p><strong>3. Motivating Text:</strong> The job listing effectively motivates potential candidates to apply for this position.</p>\n<p><strong>4. Creativity Level:</strong> The job listing demonstrates an appropriate level of creativity and originality in its presentation.</p><p><br></p>\n\n<h3>Correctness</h3>\n<p><strong>5. Content Rules:</strong> The job listing includes all content rules set by the recruitment company (rules will be provided with each listing).</p>\n<p><strong>6. Recruitment Company Tone of Voice:</strong> The job listing consistently adheres to the specified tone of voice, aligning with the intended communicative style (tone of voice will be provided with each listing).</p><p><br></p>\n\n<h3>Completeness</h3>\n<p><strong>7. Applicant Profile:</strong> The job listing reflects the competencies and challenges for the target candidate (profile will be provided with each listing).</p>\n<p><strong>8. Company Information:</strong> The job listing provides contextual, relevant information about the company.</p><p><br></p><p><br></p>\n\n<h2>Instructions</h2>\n<p>For each job listing, please indicate your level of agreement with each statement above using the 1–5 likert scale. <br></p>\n<p><strong>Rating Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Satisfactory, 4 = Agree, 5 = Strongly Agree</strong></p>\n<p><em>Note: For some questions, additional information will be provided next to the question to help with your evaluation.</em></p><p>About this survey <br></p><p><br></p><p><br></p><h2>Important details before starting</h2>\n<p>\n  This survey will take approximately 20–25 minutes to complete. Your responses will be used for research and development purposes by <strong>MySolution</strong>.\n</p>\n<p>\n  No personal data will be collected, and all responses will remain completely anonymous. Your participation is voluntary, and you may stop at any time. The data will be used solely for evaluating and improving the quality of generated job listings.\n</p>"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID9",
+      "SecondaryAttribute": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - high school level text - short sentences\n    </div>\n</div>",
+        "DefaultChoices": false,
+        "DataExportTag": "Q2.3",
+        "QuestionID": "QID9",
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Clarity 1. Language Level: The language used in the job listing is appropriate for the potential...",
+        "Choices": {
+          "1": {
+            "Display": "1. Language Level"
+          },
+          "2": {
+            "Display": "2. Syntax/Grammar Rules"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 3,
+        "NextAnswerId": 6,
+        "Answers": {
+          "1": {
+            "Display": "Strongly disagree"
+          },
+          "2": {
+            "Display": "Somewhat disagree"
+          },
+          "3": {
+            "Display": "Satisfactory"
+          },
+          "4": {
+            "Display": "Somewhat agree"
+          },
+          "5": {
+            "Display": "Strongly agree"
+          }
+        },
+        "AnswerOrder": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionText_Unsafe": "<h2>Clarity</h2>\n\n<br><strong>1. Language Level:</strong> The language used in the job listing is appropriate for the potential applicants.\n\n<br><strong>2. Syntax/Grammar Rules:</strong> The job listing adheres to the grammar and syntax conventions set by the recruitment company.<br><br><div style=\"border: 2px solid #007ACC; border-radius: 8px; padding: 15px; margin: 10px 0; background-color: #f8f9fa;\">\n    <h4 style=\"margin: 0 0 10px 0; color: #007ACC; font-weight: bold;\">Syntax Rules</h4>\n    <div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.4;\">\n        - high school level text - short sentences\n    </div>\n</div>"
+      }
+    },
+    {
+      "SurveyID": "SV_0pshNLPd1lYxLN4",
+      "Element": "STAT",
+      "PrimaryAttribute": "Survey Statistics",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "MobileCompatible": true,
+        "ID": "Survey Statistics"
+      }
+    }
+  ]
+}
