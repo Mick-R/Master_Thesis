@@ -4,45 +4,43 @@ This repository contains the implementation, data processing scripts, and resear
 
 ## Project Overview
 
-This research develops a framework for generating job listings using Large Language Models (LLMs) and evaluating their quality through an automated pipeline. The framework combines context-specific attributes and structured data to produce high-quality, contextually appropriate job listings that align with industry standards.
+This study develops a systematic framework for generating and evaluating job listings using Large Language Models (LLMs). The framework combines standardized information inputs, empirically derived quality metrics, and human-in-the-loop processes to produce job listings that align with expert recruitment standards.
 
 ### Key Research Question
 
-How should an LLM-based framework be designed to facilitate the automatic generation of high-quality, contextually appropriate job listings?
+How should an LLM-based framework be designed to facilitate the automatic generation and reliable evaluation of high-quality, contextually appropriate job listings?
+
+## Components
+
+The computational methodology consists of the following components:
+
+0. **Identifying Quality Metrics**  
+   Interview coding and thematic analysis to define a set of quality metrics based on recruiter expertise.
+
+1. **Initial Prompt Construction**  
+   Translating information requirements and writing guidelines into prompt components that guide LLM-based generation.
+
+2. **Validation Experiment 1: Human Inter-Rater Agreement**  
+   Implementing both human-to-human and human-to-LLM agreement pipelines using Gwet’s $AC_1$ to assess consistency and interpretability.
+
+3. **Validation Experiment 2: Human-LLM Inter-Rater Agreement**  
+    Evaluating the alignment between human expert ratings and LLM-based evaluations using GPT-4o and Claude-3.5 as independent judges. This experiment assesses whether automated evaluation can reliably      replicate expert judgment patterns while mitigating self-enhancement bias through dual-model evaluation.
 
 
-## Methodology
+## Technologies Used
 
-The research methodology consists of the following components:
+- **Qualitative Analysis**: Atlas.ti for codebook generation and co-occurrence tracking  
+- **LLMs**: GPT-4o, Claude 3.5 Sonnet
+- **Evaluation**: Gwet’s $AC_1$, raw agreement scores, and bias metrics  
+- **Tools**: Python, R, Jupyter Notebooks, pandas, numpy, openai, anthropic, langchain
 
-1. **Identifying Quality Metrics**: Through interviews with recruitment specialists and analysis of existing job listings to establish evaluation criteria.
+## Repository Structure
 
-2. **Initial Prompt Construction**: Designing baseline prompts incorporating findings from interviews and literature on effective job listings.
-
-3. **Evaluation Framework**: Development of both human and LLM-based evaluation pipelines using metrics identified in the interview phase.
-
-4. **Iterative Prompt Optimization**: Continuous refinement of prompts based on evaluation feedback to improve the quality of generated job listings.
-
-5. **Framework Validation**: Testing the framework across various job categories and industries to ensure standardized high-quality results.
-
-## Technologies
-
-- **Interview Processing**: Atlas.ti for interview transcription and analysis
-- **Language Models**: ChatGPT-4, Claude-3.5, Qwen-72B
-- **Prompt Engineering Framework**: DSPy
-- **Data Processing**: Python, pandas, numpy
-- **Evaluation**: Cohen's kappa and Fleiss kappa for inter-rater reliability
-
-## Installation
-
-
-
-## Results
-
-The results directory contains:
-- Generated job listings for different categories
-- Evaluation scores from human raters and LLM-based judges
-- Inter-rater reliability metrics
-- Performance analysis across different job categories
-
-## Acknowledgments
+```bash
+.
+├── 0.Interview coding/                 # Codebooks and qualitative analysis outputs
+├── 1. intial prompt/                  # Prompt input/output data and prompt examples
+├── 2. human_inter_rater_agreement/   # Human rating results and IRR analysis
+├── 3. LLM_evaluation_pipeline/       # LLM evaluation notebooks and result logs   
+├── README.md
+└──  requirements.txt
